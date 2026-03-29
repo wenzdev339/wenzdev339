@@ -87,26 +87,17 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 
 ---
 
-## Highlights
-
-- `NSC 2020` — National Software Contest finalist (Game Development)
-- `Startup Thailand League 2023` — Selected & advanced to Demo Day at True Digital Park
-- `ELP Program` — 1 of 35 international participants at NTUST, Taiwan
-- `Guest Speaker` — Invited to share startup & tech project experience
-
----
-
 ## Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=wenzdev339&hide_border=true&date_format=j%20M%5B%20Y%5D&background=ffffff&ring=555555&fire=555555&currStreakLabel=555555&sideLabels=555555&currStreakNum=111111&sideNums=111111&dates=999999" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=wenzdev339&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=e6edf3&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="450"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wenzdev339&bg_color=ffffff&color=555555&line=111111&point=111111&area=true&area_color=dddddd&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wenzdev339&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=161b22&hide_border=true" width="450"/>
 
 </div>
 
