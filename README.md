@@ -67,14 +67,14 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 ### Data Analysis
 | Project | Description | Tech |
 |---|---|---|
-| **Brazilian E-Commerce Analysis** | End-to-end SQL analysis of 100K+ orders: revenue, segmentation, delivery | SQL · PostgreSQL |
-| **Hotel Booking Analysis** | Cancellation drivers, pricing seasonality across 119K+ bookings | SQL · PostgreSQL · Power BI |
+| [**Brazilian E-Commerce Analysis**](https://github.com/wenzdev339/BrazilianEcommerceAnalysis) | Production-grade data platform: PySpark ingestion → Medallion architecture (Bronze/Silver/Gold) → dbt star schema → FastAPI REST → Airflow DAGs → automated HTML reports · Docker Compose | PySpark · dbt · FastAPI · Airflow · PostgreSQL · Docker |
+| [**Hotel Booking Analysis**](https://github.com/wenzdev339/HotelBookingPerformanceAnalytics) | Cancellation drivers, pricing seasonality across 119K+ bookings | SQL · PostgreSQL · Power BI |
 
 ### Software & Web
 | Project | Description | Tech |
 |---|---|---|
 | **API Tester + ML** | Hackathon tool: test APIs, analyze logs with ML, generate reports | React · Python · TensorFlow |
-| **ClipBoardPro** | Desktop clipboard manager with history tracking | Electron · React |
+| [**ClipBoardPro**](https://github.com/wenzdev339/ClipBoardPro) | Desktop clipboard manager with history tracking | Electron · React |
 | **Survey Share** | Frontend built at X-TenTech internship with Google Drive & OAuth | Flutter · Dart |
 | **Doc Guide** | Medical consultation desktop app with symptom checker & chatbot | Python · Tkinter |
 
