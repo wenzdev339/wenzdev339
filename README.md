@@ -75,7 +75,7 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 | [**API Tester + ML**](https://github.com/wenzdev339/AnomixAPILoadTestingMLAnomalyDetection-Hackathon) | Hackathon tool: test APIs, analyze logs with ML, generate reports | React · Python · TensorFlow |
 | [**ClipBoardPro**](https://github.com/wenzdev339/ClipBoardPro) | Desktop clipboard manager with history tracking | Electron · React |
 | **Survey Share** | Frontend built at X-TenTech internship with Google Drive & OAuth | Flutter · Dart |
-| **Doc Guide** | Medical consultation desktop app with symptom checker & chatbot | Python · Tkinter |
+| [**Doc Guide**](https://www.youtube.com/watch?v=keqZCMdvzgU) | Medical consultation desktop app with symptom checker & chatbot | Python · Tkinter |
 
 ### Games
 | Project | Description | Tech |
