@@ -11,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wenzdev339)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://wenzgame.itch.io/)
 
+<img src="https://media.tenor.com/images/12307844554885414450/tenor.gif" width="200"/>
+
 </div>
 
 ---
