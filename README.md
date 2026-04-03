@@ -4,7 +4,7 @@
 
 **Full Stack · Game Developer · Business Analyst**
 
-*B.Eng Computer Engineering — Naresuan University, Thailand*
+*B.Eng Computer Engineering · Naresuan University, Thailand*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ap-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatcha-pankean-494a1b257)
