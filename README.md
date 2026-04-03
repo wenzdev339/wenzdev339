@@ -12,8 +12,6 @@
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://wenzgame.itch.io/)
 
 <img src="https://media.tenor.com/qs4_abSrvjIAAAAi/cat-meme.gif" width="150"/>&nbsp;&nbsp;
-<img src="https://media.tenor.com/_Quk5ZOKWDAAAAAi/cat-cat-meme.gif" width="150"/>&nbsp;&nbsp;
-<img src="https://media.tenor.com/eexVMGWJTdwAAAAi/banana-cat-cat-banana.gif" width="150"/>
 
 </div>
 
