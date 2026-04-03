@@ -13,7 +13,7 @@
 
 <img src="https://media.tenor.com/qs4_abSrvjIAAAAi/cat-meme.gif" width="150"/>&nbsp;&nbsp;
 
-[![Life Style Song](https://img.shields.io/badge/▶)](https://youtu.be/Zl1wJ64mHpQ?t=48)
+[![Life Style Song](https://img.shields.io/badge/▶%20Life%20Style%20Song-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Zl1wJ64mHpQ?t=48)
 
 </div>
 
