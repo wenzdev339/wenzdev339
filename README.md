@@ -26,7 +26,7 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 
 - Currently open to **full-time roles** in software development or business analysis
 - International experience via exchange program at **NTUST, Taiwan**
-- NSC finalist, ELP finalist, Startup Thailand League finalist, and game jam regular
+- NSC finalist, Experiential Learning Program (ELP - Alpha) finalist, Startup Thailand League finalist, and game jam regular
 
 ---
 
