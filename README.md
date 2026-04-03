@@ -17,7 +17,7 @@
 
 ## About
 
-Engineer who builds across the full stack — from gameplay systems to data pipelines.
+Engineer who builds across the full stack from gameplay systems to data pipelines.
 I care about clean architecture, meaningful UX, and shipping things that actually work.
 
 - Currently open to **full-time roles** in software development or business analysis
