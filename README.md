@@ -84,7 +84,7 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 ### Games
 | Project | Description | Tech |
 |---|---|---|
-| **Luna Game** | Turn-based strategy set in Thailand 2077 — Muay Thai meets sci-fi | Unity · C# |
+| **Luna Game** | Turn-based strategy set in Thailand 2077 · Muay Thai meets sci-fi | Unity · C# |
 | [**1 Ronin vs 1,000 Samurai**](https://wenzgame.itch.io/1-ronin-vs-1000-samurai) | Defeat 1,000 samurai in 20 seconds | Unity · C# · Pixel Art |
 | [**Boba Tanuki**](https://wenzgame.itch.io/boba-tanuki) | Casual dual-mode arcade game (20 Second Jam 2025) | Unity · C# |
 
