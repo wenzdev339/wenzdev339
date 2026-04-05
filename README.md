@@ -85,14 +85,13 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 | **Luna Game** | Turn-based strategy set in Thailand 2077 · Muay Thai meets sci-fi | Unity · C# |
 | [**1 Ronin vs 1,000 Samurai**](https://wenzgame.itch.io/1-ronin-vs-1000-samurai) | Defeat 1,000 samurai in 20 seconds | Unity · C# · Pixel Art |
 | [**Boba Tanuki**](https://wenzgame.itch.io/boba-tanuki) | Casual dual-mode arcade game (20 Second Jam 2025) | Unity · C# |
+| [**Git Invaders**](https://gitinvaders.com/) | Your real Github contribution graph becomes the battlefield | React |
 
 ---
 
 ## Stats
 
 <div align="center">
-
-[![Git Invaders](https://img.shields.io/badge/Git_Invaders-Play_My_Contributions-58a6ff?style=flat-square&logo=github&logoColor=white)](https://gitinvaders.com/wenzdev339)
 
 <img src="https://streak-stats.demolab.com/?user=wenzdev339&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=e6edf3&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="450"/>
 
