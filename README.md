@@ -92,6 +92,8 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 
 <div align="center">
 
+[![Git Invaders](https://img.shields.io/badge/Git_Invaders-Play_My_Contributions-58a6ff?style=flat-square&logo=github&logoColor=white)](https://gitinvaders.com/wenzdev339)
+
 <img src="https://streak-stats.demolab.com/?user=wenzdev339&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=e6edf3&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="450"/>
 
 </div>
