@@ -77,6 +77,7 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 ### Software & Web
 | Project | Description | Tech |
 |---|---|---|
+| [**Purr**](https://github.com/wenzdev339/purr) | Open-source, local-first AI chat client. One UI for every model (Anthropic, OpenAI, Gemini, OpenRouter, Ollama) with streaming, web search & on-device history | Electron · React · TypeScript |
 | [**API Tester + ML**](https://github.com/wenzdev339/AnomixAPILoadTestingMLAnomalyDetection-Hackathon) | Hackathon tool: test APIs, analyze logs with ML, generate reports | React · Python · TensorFlow |
 | [**ClipBoardPro**](https://github.com/wenzdev339/ClipBoardPro) | Desktop clipboard manager with history tracking | Electron · React |
 | **Survey Share** | Frontend built at X-TenTech internship with Google Drive & OAuth | Flutter · Dart |
