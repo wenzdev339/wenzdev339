@@ -100,12 +100,6 @@ I care about clean architecture, meaningful UX, and shipping things that actuall
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wenzdev339&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=161b22&hide_border=true" width="450"/>
-
-</div>
-
 ---
 
 <div align="center">
