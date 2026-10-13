@@ -13,7 +13,6 @@
 
 *MY FULLSTACK SKILL 👇*
 
-<img src="https://media.tenor.com/lBqxcU5S2HMAAAAi/poki-pokithehamster.gif" width="150"/>&nbsp;&nbsp;
 <img src="https://media.tenor.com/qsqwmV7R_-oAAAAd/tenor.gif" width="150"/>&nbsp;&nbsp;
 
 </div>
